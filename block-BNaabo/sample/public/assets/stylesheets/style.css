@@ -1,0 +1,17 @@
+.body {
+  font-size: 20px;
+}
+section {
+  background-color: aquamarine;
+}
+img {
+  height: 10rem;
+  width: 10rem;
+  border-radius: 50%;
+}
+
+h2 {
+  font-size: 3rem;
+  font-weight: 800;
+  text-align: center;
+}
